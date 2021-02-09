@@ -2,4 +2,6 @@
 
 competition: https://dacon.io/competitions/official/235687/overview/
 
-ranked 50th, with 0.83441
+0.83441점으로 50등 달성
+
+500개의 feature 사용
